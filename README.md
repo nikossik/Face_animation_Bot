@@ -3,6 +3,16 @@ Animate pictures with using neural networks
 
 The files you need: https://yadi.sk/d/5gphgE6tAMFnzw
 
+To run
+1.Install VPN
+2.Clone repository
+3.Run VPN
+4.Run telegram and with @BotFather create your telebot
+5.In folder bot, open config.py and set your bot token
+6.Run terminal and paste in terminal 'cd emotiondetect', then 'cd bot'
+7.Finally, paste in terminal 'python bot.py' and press Enter
+Wait for a moment, when in terminal will message: 'Bot started!' And use your telegram bot!
+
 
 Prepare Video:
 
