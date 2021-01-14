@@ -13,7 +13,11 @@ ____
 *Wait for a moment, when in terminal will message: 'Bot started!' And use your telegram bot!*
 ____
 
-## Prepare Video:
+## Prepare your Data:
+
+### Picture
+ - you can use any picture you want, it does not matter)
+
 ### **To make the right video you should download any video redactor(for example 'Sony Vegas'):**
 
  - You should add video(that you use as example of animation) to the video redactor
@@ -25,5 +29,6 @@ ____
   - Press 'U' on the first video and cut out video track
   - Add your animated files to the redactor
   - Render it in '30 fps' and 'resolution (256, 256)' 
+
 ~~Your video is ready)~~
    
