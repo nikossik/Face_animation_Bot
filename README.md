@@ -24,6 +24,7 @@ ____
  - Press 'Render as' 
  - Set '30 fps' and 'resolution (256, 256)'
  - Save video with this params and upload it to the Google Drive(you will use this vedeo to animate your picture)
+ - Then upload it this video to YouTube channel
   
 ### **If you are already save your animated picture, you can save it and return to the video redactor:**
   - Press 'U' on the first video and cut out video track
