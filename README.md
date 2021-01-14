@@ -2,6 +2,9 @@
 ## Animate pictures with using neural networks
 - **[The files you need](https://yadi.sk/d/5gphgE6tAMFnzw)**
 ____
+## To start
+- Run 'main.py' in cmd
+____
 ## To run
 - Install VPN
 - Clone repository
